@@ -11,9 +11,9 @@
 # Center for Internet Security Benchmark v1.0.0 for Microsoft Windows 11 Release 21H2 - 02-14-2022
 
 policy:
-  id: "cis_win11_enterprise_21H2"
-  file: "cis_win11_enterprise.yml"
-  name: "CIS Microsoft Windows 11 Enterprise Benchmark v1.0.0"
+  id: "cis_win11_enterprise_21H2_cloudaware"
+  file: "cis_win11_enterprise_cloudaware.yml"
+  name: "CIS Microsoft Windows 11 Enterprise Benchmark v1.0.0 CloudAware version"
   description: "This document provides prescriptive guidance for establishing a secure configuration posture for Microsoft Windows 11."
   references:
     - https://www.cisecurity.org/cis-benchmarks/
